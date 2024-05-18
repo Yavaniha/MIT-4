@@ -1,0 +1,66 @@
+.title{
+    border: solid 2px black;
+    color: white;
+    background-color: black;
+    padding-left: 700px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+}
+.contact{
+    margin: 100px;
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.heading{
+   
+    font-size: 1.9rem;
+    font-weight: bold;
+    
+}
+.name{
+    margin-top: 20px;
+    
+}
+.box1{
+    margin-top: 10px;
+    margin-left: 0px;
+    border-radius: 5px;
+    height: 25px;
+    width: 1300px;
+}
+.mail{
+
+    margin-top: 15px;
+}
+.box2{
+    margin-top: 10px;
+    border-radius: 5px;
+    height: 25px;
+    width: 1300px;
+}
+.Submit{
+    margin-top: 20px;
+    background-color: rgb(50, 103, 238);
+    border-radius: 4px;
+    color: white;
+    padding: 3px;
+    width: 55px;
+}
+.output{
+    margin-top: 20px;
+    border: solid 1px;
+    border-radius: 4px;
+    height: 40px;
+    width: 1300px;
+   
+}
+ 
+
+.line{
+    margin-top: 15px;
+}
+.clear-btn{
+    margin-left: 1200px;
+    margin-top: 10px;
+}
